@@ -1,0 +1,11 @@
+{
+    "html.suggest.html5": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "html.format.templating": false,
+    "css.lint.idSelector": "warning",
+    "scss.lint.idSelector": "warning",
+    "less.lint.idSelector": "warning",
+    "terminal.integrated.minimumContrastRatio": 7
+}
